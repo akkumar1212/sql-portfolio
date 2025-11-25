@@ -1,0 +1,6 @@
+# ignore exports and DB creds
+*.csv
+*.sql.gz
+.env
+secrets/*
+.DS_Store
